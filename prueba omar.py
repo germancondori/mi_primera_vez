@@ -68,3 +68,7 @@ dyct_output[hostname4] = neighbors_routers(lldp_neighbors4)
 
 
 print_output(dyct_output)
+
+#aca encontre un error y voy a solucionarlo!!
+
+
